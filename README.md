@@ -142,7 +142,7 @@ nordic-power-dashboard/
 │   ├── utils/
 │   │   ├── __init__.py
 │   │   └── config.py             # Configuration (80 lines)
-│   └── dashboard/                 # Streamlit UI (Week 4 - optional)
+│   └── dashboard/                 # Streamlit UI (Week 4)
 ├── data/
 │   └── prices.db                 # SQLite database
 ├── venv/                         # Python environment
@@ -374,7 +374,7 @@ matplotlib>=3.7.0
 seaborn>=0.12.0
 ```
 
-### Dashboard (Week 4 - optional)
+### Dashboard (Week 4)
 ```
 streamlit>=1.28.0
 plotly>=5.17.0
